@@ -1,6 +1,6 @@
 # app-dev
  My first repository
- # H1 My Favorite movies/series
+ #  My Favorite movies/series
  
 
 1. Stranger Things
